@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[https://test.com](javascript:alert(1))
+<a href=javascript:alert(1)>click</a>
